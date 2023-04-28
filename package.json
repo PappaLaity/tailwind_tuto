@@ -1,0 +1,25 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Package for tailwind project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PappaLaity/tailwind_tuto.git"
+  },
+  "keywords": [
+    "Tailwind"
+  ],
+  "author": "Papa Laity Ndiaye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PappaLaity/tailwind_tuto/issues"
+  },
+  "homepage": "https://github.com/PappaLaity/tailwind_tuto#readme",
+  "dependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
